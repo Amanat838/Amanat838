@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **syedamanatalishahkazmi@gmail.com**
 
-- ⚡ Fun fact **I can do any difficult ranging from easy to most difficult.The fun fact is I can only do it if I really want and that is something..**
+- ⚡ Fun fact **I'm addicted to coding🥹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
