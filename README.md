@@ -39,7 +39,6 @@
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amanat-ali-765110264/)
-- 🧠 [Portfolio](https://amanat-portfolio.vercel.app/)
 - 📩 Email: syedamanatalishahkazmi@gmail.com
 
 ---
