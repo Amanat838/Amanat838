@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanat Kazmi</h1>
+<h1 align="center">Hi 👋, I'm Amanat Shah</h1>
 <h3 align="center">Full-Stack Developer | MERN Expert | Problem Solver</h3>
 
 <p align="center">
